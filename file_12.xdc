@@ -1,0 +1,7 @@
+set_property PACKAGE_PIN J15 [get_ports a]
+set_property PACKAGE_PIN L16 [get_ports c]
+set_property PACKAGE_PIN M13 [get_ports d]
+set_property PACKAGE_PIN A10 [get_ports b]
+set_property PACKAGE_PIN H17 [get_ports B]
+set_property PACKAGE_PIN C2 [get_ports G]
+set_property PACKAGE_PIN B14 [get_ports R]
